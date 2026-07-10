@@ -1,6 +1,7 @@
 # MOE TW Fonts
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/typst-doc-cn/moe-tw-fonts)
+[![GitHub issue last check for updates](https://img.shields.io/github/issues/detail/last-update/typst-doc-cn/moe-tw-fonts/1?label=last%20update%20check)](https://github.com/typst-doc-cn/moe-tw-fonts/issues/1)
 
 This is an unofficial collection of fonts in [國字標準字體 | 教育部 語文成果網 (language.moe.gov.tw)](https://language.moe.gov.tw/material/list?u=9fd3b76d-d663-4508-bad1-a61d34e68850&title=國字), including historical versions.
 
